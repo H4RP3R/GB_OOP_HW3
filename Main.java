@@ -28,11 +28,6 @@ public class Main {
                 .addComponent(new Penicillin("penicillin 3", 48.1, 5))
                 .addComponent(new Salt("salt 3", 90, 6));
 
-        List<Component> components = new ArrayList<>();
-        for (Component c : pharm1) {
-            components.add(c);
-        }
-
         List<Pharmacy> pharmacies = new ArrayList<>();
         pharmacies.add(pharm1);
         pharmacies.add(pharm2);
