@@ -2,7 +2,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import components.Component;
 import components.Penicillin;
 import components.Salt;
 import components.Water;
